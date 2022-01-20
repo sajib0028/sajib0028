@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
 - ⚡ Fun fact: I love to spend time with friends 🏃
-- 💬 Ask me about [here](https://github.com/JatinThakur2/JatinThakur2/issues)
+- 💬 Ask me about [here](https://github.com/sajib0028/sajib0028/issues)
 
 ### Connect with me:
 
