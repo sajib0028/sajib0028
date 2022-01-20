@@ -6,13 +6,13 @@
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
 - ⚡ Fun fact: I love to spend time with friends 🏃
+- 💬 Ask me about [here](https://github.com/JatinThakur2/JatinThakur2/issues)
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -25,29 +25,28 @@
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/git.png" />][interview]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/github.png" />][endtoend]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/maven.jpg" />][maven]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/sonarqube.png" />][endtoend]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/jenkins.png" />][jenkins]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/Ansible.png" />][ansible]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/aws.png" />][endtoend]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/docker.png" />][dockerplaylist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/grafana.png" />][endtoend]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/helm.png" />][helm]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/jfrog.png" />][endtoend]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/kubernetes.png" />][kubernetesplaylist]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/nexus.png" />][kubernetesplaylist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/prometheus.png" />][prometheus]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/teraform.png" />][kubernetesplaylist]
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <br />
 <br />
 
 
+| <a href="https://github.com/sajib0028/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajib0028&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jatin's github stats" /></a> | <a href="https://github.com/sajib0028/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib0028&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sajib0028&show_icons=true&hide_border=true" />
 
 [facebook]: https://web.facebook.com/sajib00028
-[twitter]: #
 [instagram]: https://www.instagram.com/sajib0028/
 [linkedin]: https://www.linkedin.com/in/sajib-biswas-719036176/
 [unix_shell_playlist]: https://www.youtube.com/watch?v=IxApf1YtkJU&list=PLLYW3zEOaqlIwDc-5GnP74PUIo0nrnYgg
