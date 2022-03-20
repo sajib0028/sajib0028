@@ -2,7 +2,7 @@
 
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - 🔭 I’m currently pursuing my B.Tech in CSE 
-- 🌱 I’m currently learning React.js 🤣
+- 🌱 I’m currently learning Docker, K8s & React.js 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
 - ⚡ Fun fact: I love to spend time with friends 🏃
