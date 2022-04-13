@@ -23,14 +23,11 @@
 <img align="left" alt="Linus" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/linux.png" />
 <img align="left" alt="Shell" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/shell.jpg" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/github.png" />
-<img align="left" alt="maven" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/maven.jpg" />
 <img align="left" alt="jenkins" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/jenkins.png" />
 <img align="left" alt="Ansible" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/Ansible.png" />
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/aws.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/docker.png" />
 <img align="left" alt="kubernetes" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/kubernetes.png" />
-<img align="left" alt="Nexus" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/nexus.png" />
-<img align="left" alt="teraform" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/teraform.png" />
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
