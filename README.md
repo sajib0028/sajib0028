@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 
-img align="left" alt="Linus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Linus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Shell" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/shell.jpg" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/github.png" />
 <img align="left" alt="jenkins" width="30px" src="https://raw.githubusercontent.com/sajib0028/sajib0028/master/Tools_icons/jenkins.png" />
