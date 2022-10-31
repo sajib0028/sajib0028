@@ -1,8 +1,8 @@
 ## Hi there, I'm Sajib Biswas 👋
 
 
-- 🔭 I’m currently pursuing my B.Tech in CSE 
-- 🌱 I’m currently learning Docker, K8s & React.js 🤣
+- 🔭 I’ve completed B.Tech in CSE 
+- 🌱 I’m currently learning Clustering & Kafka 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
 - ⚡ Fun fact: I love to spend time with friends 🏃
