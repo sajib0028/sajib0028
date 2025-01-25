@@ -4,7 +4,7 @@
 - 🔭 I’ve completed B.Tech in CSE 
 - 🌱 I’m currently learning Clustering & Kafka 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
+- 🥅 2025 Goals: Contribute more to Open Source projects and tech videos 
 - ⚡ Fun fact: I love to spend time with friends 🏃
 - 💬 Ask me about [here](https://github.com/sajib0028/sajib0028/issues)
 
