@@ -44,4 +44,4 @@
 
 [facebook]: https://web.facebook.com/sajib00028
 [instagram]: https://www.instagram.com/sajib0028/
-[linkedin]: https://www.linkedin.com/in/sajib-biswas-719036176/
+[linkedin]: https://www.linkedin.com/in/sajib0028/
