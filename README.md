@@ -38,7 +38,7 @@
 <br />
 
 
-| <a href="https://github.com/sajib0028/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajib0028&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jatin's github stats" /></a> | <a href="https://github.com/sajib0028/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib0028&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sajib0028/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajib0028&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sajib's github stats" /></a> | <a href="https://github.com/sajib0028/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib0028&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
